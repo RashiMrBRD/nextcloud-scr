@@ -304,5 +304,5 @@ sudo rm -rf latest.zip
 sudo rm -rf mysql_secure_installation.sql
 echo""
 
-
+#output
 echo -e "${BLUE}Nextcloud installation and setup complete\n- Visit: https://${NCIP} or https://${NCdomainName}\n Admin username: ${NCAdmin}\n Admin password: ${NCPass}\n\n Database root user password: ${mysqlRootPwd} \n Database User: ${DbUser} \n Database user password: ${DbPwd}\n\n ${GREEN}Thank you for using my script and being part of the geek2gether community.${NC}"
