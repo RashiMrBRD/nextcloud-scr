@@ -20,7 +20,7 @@ This script is designed for automated installation of nextcloud. It ensures that
 To get started, run this following command in your terminal:
 ### Rashscript
 ```bash
-   curl -fsSL https://rashlink.eu.org/nscript | sh
+curl -fsSL https://rashlink.eu.org/nscript | sh
 ```
 
 or you can do this following
