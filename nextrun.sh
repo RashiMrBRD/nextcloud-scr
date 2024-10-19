@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# URL of the script to be downloaded and executed
-NEXTCLOUD_SCRIPT_URL="https://raw.githubusercontent.com/RashiMrBRD/nextcloud-scr/refs/heads/main/nextcloud-script.sh"
+# URL of the Nextcloud script to be downloaded and executed
+NEXTCLOUD_SCRIPT_URL="https://raw.githubusercontent.com/rashimrbrd/nextcloud-scr/refs/heads/main/nextcloud-script.sh"
 
 # Temporary file to store the downloaded script
 TEMP_SCRIPT="/tmp/nextcloud-script.sh"
