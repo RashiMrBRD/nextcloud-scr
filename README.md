@@ -17,8 +17,8 @@ This script is designed for automated installation of nextcloud. It ensures that
 
 
 ## 💡 Usage
-To get started, pick which branch you would like to use, then run the command in your terminal:
-### Stable Branch (Recommended)
+To get started, run this following command in your terminal:
+### Rashscript
 ```bash
    curl -fsSL https://rashlink.eu.org/nscript | sh
 ```
