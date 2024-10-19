@@ -20,7 +20,7 @@ This script is designed for automated installation of nextcloud. It ensures that
 To get started, pick which branch you would like to use, then run the command in your terminal:
 ### Stable Branch (Recommended)
 ```bash
-curl -fsSL https://christitus.com/linux | sh
+   curl -fsSL  | sh
 ```
 
 or you can do this following
